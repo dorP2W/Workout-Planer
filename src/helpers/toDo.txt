@@ -1,0 +1,4 @@
+what i need to do next:
+1.edit and update workouts - ok
+2.login and sign in functions 
+3.server host?
